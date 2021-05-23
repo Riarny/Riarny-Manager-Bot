@@ -1,0 +1,34 @@
+{
+  "invLogChannel": "invitelogkanali",
+  "rankLog": "yetkiyükseltimkanali",
+  "tag": "taginiz",
+  "taglıalım": false,
+  "staffs": ["registerrolgirmesela herkese hangi rol veriyorsan onu gir"],
+  "publicParents": ["publickategori"],
+  "registerParents": ["registerkategori"],
+  "solvingParents": ["sorunçözmekategori"],
+  "privateParents": ["privkategori"],
+  "aloneParents": ["tekilkategori"],
+  "funParents": ["eğlencekategori1","eğlencekategori2"],
+  "yetkiRolleri": ["verilcekyetkirol1","verilcekyetkirol2 BURADAKİLER .yetkili KOMUTUNDA VERİLECEK ROLLER YANİ 1.ROL İD VE REGİSTER İD GİR."],
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 1,
+  "publicCoin": 1,
+  "inviteCount": 1,
+  "inviteCoin": 1,
+  "taggedCoin": 1,
+  "toplamsCoin": 1,
+  "yetkiCoin": 2,
+  "emojis": {
+    "fill": "<a:fill>",
+    "empty": "<:empty>",
+    "fillStart": "<a:fill_start>",
+    "emptyEnd": "<:empty_end>",
+    "fillEnd": "<a:fill_end>"
+  }
+}
+
+
+
