@@ -15,7 +15,7 @@ module.exports = async (message) => {
   let args = message.content.substring(prefix.length).trim().split(" ");
   let commandName = args[0].toLowerCase();
 
-  const embed = new MessageEmbed().setFooter(`Developed By Aias.`).setColor(message.member.displayHexColor).setAuthor(message.member.displayName, message.author.avatarURL({ dynamic: true, size: 2048 }));
+  const embed = new MessageEmbed().setFooter(`Developed By Synnax.`).setColor(message.member.displayHexColor).setAuthor(message.member.displayName, message.author.avatarURL({ dynamic: true, size: 2048 }));
 
   args = args.splice(1);
   let cmd = client.commands.has(commandName) ? client.commands.get(commandName) : client.commands.get(client.aliases.get(commandName));
